@@ -1,19 +1,4 @@
-name: Djalal
-favicon: null
-layout_spectrum: 0.33423941233195364
 typography_spectrum: 0.22590364841744304
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,20 @@ color:
   lightness: 0.25
   saturation: 0.4375
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.33423941233195364
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Djalal
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Djalal.ca
 purpose: []
